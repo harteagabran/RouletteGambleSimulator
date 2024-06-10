@@ -1,0 +1,8 @@
+# ninja log v5
+1	128	7396925704062219	RouletteGambleSimulator_autogen/timestamp	8dfd06adc5795e09
+1	128	7396925704062219	RouletteGambleSimulator_autogen/mocs_compilation.cpp	8dfd06adc5795e09
+1	128	7396925704062219	C:/Users/kumar/OneDrive/Documents/DMACC/C++/RouletteGambleSimulator/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RouletteGambleSimulator_autogen/timestamp	8dfd06adc5795e09
+1	128	7396925704062219	C:/Users/kumar/OneDrive/Documents/DMACC/C++/RouletteGambleSimulator/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RouletteGambleSimulator_autogen/mocs_compilation.cpp	8dfd06adc5795e09
+129	174	7396925704827435	CMakeFiles/RouletteGambleSimulator.dir/RouletteGambleSimulator_autogen/mocs_compilation.cpp.obj	e3878bc566b00c1c
+132	433	7396925707417891	CMakeFiles/RouletteGambleSimulator.dir/main.cpp.obj	d712ae40fe3cb78
+434	531	7396925708362710	RouletteGambleSimulator.exe	a2a5f2fc6645137c
