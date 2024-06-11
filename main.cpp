@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include "Score.h"
 using namespace std;
 
 class RandomNumber {
@@ -79,6 +80,16 @@ RandomNumber* RandomNumber::createBet() {
 }
 
 int main() {
+    //Testing Score Class
+    /*
+    Score defaultScore;
+    defaultScore.display();
+    defaultScore.winPoints(50);
+    defaultScore.display();
+    defaultScore.losePoints(25);
+    defaultScore.display();
+    */
+
     RandomNumber* bet = RandomNumber::createBet();
     bet->printBet();
     return 0;

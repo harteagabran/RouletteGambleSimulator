@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8bf9a4f1afa2be521ded.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RouletteGambleSimulator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RouletteGambleSimulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RouletteGambleSimulator-Debug-0e846c9ef11afba20841.json",
+					"name" : "RouletteGambleSimulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RouletteGambleSimulator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RouletteGambleSimulator_autogen-Debug-5b1eeb23de92a74381f8.json",
+					"name" : "RouletteGambleSimulator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RouletteGambleSimulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RouletteGambleSimulator_autogen_timestamp_deps-Debug-e1db21310d1cc5be0e2f.json",
+					"name" : "RouletteGambleSimulator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kumar/OneDrive/Documents/DMACC/C++/RouletteGambleSimulator/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/kumar/OneDrive/Documents/DMACC/C++/RouletteGambleSimulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -14,6 +14,8 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 
 add_executable(RouletteGambleSimulator
   main.cpp
+  Score.h
+  Score.h Score.cpp
 )
 target_link_libraries(RouletteGambleSimulator Qt${QT_VERSION_MAJOR}::Core)
 
