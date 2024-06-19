@@ -42,7 +42,7 @@ void Score::winPoints(int points) {
 
 //Decrease Score and Increase Loss assuming it's after a round
 void Score::losePoints(int points) {
-    score -= points;
+    score += points;
     loss += points;
     rounds++;
 }
